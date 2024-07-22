@@ -6,7 +6,7 @@
 curl -L https://foundry.paradigm.xyz | bash
 foundryup
 ```
-2. Clone the [Ethernaut Foundry Solutions Repository](https://github.com/LhoussainePh/ethernaut-foundry-solutions-parte_1) (don’t forget to leave a star on Github 😉)
+2. Clone the [Ethernaut Foundry Solutions Repository](https://github.com/LhoussainePh2001/Ethernaut) (don’t forget to leave a star on Github 😉)
 3. Execute `forge build`
 4. Create copy `.env_example` to `.env`
 5. Fill in the params in your `.env` file
